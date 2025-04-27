@@ -105,7 +105,7 @@ const RegisterPage = () => {
         )}
         <p className="text-center mt-3">
           Already have an account?{" "}
-          <Link href="/register" className="text-dark-green tex-base underline">
+          <Link href="/login" className="text-dark-green tex-base underline">
             Login.
           </Link>
         </p>
